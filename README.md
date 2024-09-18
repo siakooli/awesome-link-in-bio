@@ -1,4 +1,5 @@
 > I'm Gilda, a Python Programmer!
+> Let's connect!
 
 <!--
 **siakoli/siakoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
