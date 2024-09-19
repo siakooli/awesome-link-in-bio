@@ -2,6 +2,8 @@
 
 > Let's connect!
 
+![siakooli](https://raw.githubusercontent.com/siakooli/siakooli/main/artwork_636518014700189764_thumb_1680_880.webp)
+
 <!--
 **siakoli/siakoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
