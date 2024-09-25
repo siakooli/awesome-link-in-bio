@@ -2,6 +2,7 @@
 
 A curated list of the best **link-in-bio** tools, categorized by general use cases and niche services for creators, influencers, businesses, and specific industries.
 
+
 ## Table of Contents
 - [General Link-in-Bio Services](#general-link-in-bio-services)
 - [E-commerce & Retail](#e-commerce--retail)
